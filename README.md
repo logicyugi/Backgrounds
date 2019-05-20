@@ -1,12 +1,26 @@
 # Backgrounds
 Gaming / Anime / Pop Culture wallpapers for pc
+**********************************************
 
 inspired by:
 https://github.com/dconnolly/chromecast-backgrounds
-and
+And 
 https://github.com/phisko/Wallpapers
+And
+https://github.com/MorganCaron
+
+*********************************************
+# Tutorial
+How to create a desktop background slideshow:
+
+# Mac
+https://www.youtube.com/watch?v=hbLxMGp_iF4
+# Windows
+https://www.youtube.com/watch?v=HkTgHfQ1geI
+*********************************************
 
 
+# Preview
 ![](thumb-1920-356154.jpg)
 ![](thumb-1920-915514.png)
 ![](thumb-1920-510201.jpg)
