@@ -2,6 +2,9 @@
 Gaming / Anime / Pop Culture wallpapers for pc
 
 inspired by:
+https://github.com/dconnolly/chromecast-backgrounds
+https://github.com/phisko/Wallpapers
+
 
 ![](thumb-1920-356154.jpg)
 ![](thumb-1920-915514.png)
