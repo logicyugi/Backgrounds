@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=HkTgHfQ1geI
 ![](dragonicavoleur.jpg)
 ![](galactic-dragon.jpg)
 ![](mw3.jpg)
-![](Capture d’écran 2019-09-28 à 15.26.57.png)
+![](noob.png)
 ![](thumb-1920-287897.jpg)
 ![](thumb-1920-555055.jpg)
 ![](thumb-1920-569800.jpg)
